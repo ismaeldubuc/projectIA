@@ -5,7 +5,7 @@ Ce projet est une IA de type chatbot utilisant ollama qui lui recupérera un RAG
 
 ## Installation
 - Cloner le projet
-- Créer un fichier .env et y ajouter les clés d'accès aws
+- Créer un fichier .env et y ajouter les clés d'accès aws (si besoin m'écrire afin de les obtenir)
 - Lancer le script upload.py pour uploader le fichier pdf dans un bucket S3 avec la commande suivante : python3.11 upload.py
 - Lancer le script localrag.py pour lancer le chat avec Ollama avec la commande suivante : python3.11 localrag.py --model llama3.2 
 
