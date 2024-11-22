@@ -10,8 +10,6 @@ Ce projet est une IA de type chatbot utilisant ollama qui lui recupérera un RAG
 - Lancer le script localrag.py pour lancer le chat avec Ollama avec la commande suivante : python3.11 localrag.py --model llama3.2 
 
 ## A Noter
-- Le fichier vault.txt est un fichier temporaire qui stocke les chunks de texte du pdf, il est effacé à chaque execution du script upload.py
-- Le fichier vault.txt est un fichier temporaire qui stocke les embeddings du pdf, il est effacé à chaque execution du script localrag.py
 - Lorsque le script localrag.py est lancé, il faut patienter quelques minutes avant que le chat soit opérationnel, cela est du au fait que Ollama charge les embeddings dans la mémoire vive et cela peut prendre quelques minutes
 
 ## Contact
