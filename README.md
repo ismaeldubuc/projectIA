@@ -1,7 +1,7 @@
 # ProjectIA
 
 ## Description
-IA chat ollama recuperant un RAG sur aws S3 afin de l'apprendre et de l'utiliser pour répondre à des questions.
+Ce projet est une IA de type chatbot utilisant ollama qui lui recupérera un RAG sur aws S3 afin de l'apprendre et de l'utiliser pour répondre à des questions.
 
 ## Installation
 - Cloner le projet
